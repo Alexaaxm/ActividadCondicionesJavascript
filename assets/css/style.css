@@ -1,0 +1,49 @@
+/*Actividad 1*/
+.imagenBorde {
+  cursor: pointer;
+  width: 300px;
+}
+
+/*Actividad 2*/
+p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.suma {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/*Actividad 3*/
+button {
+  width: 100px;
+  height: 30px;
+  margin: 20px;
+}
+.centrar {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+}
